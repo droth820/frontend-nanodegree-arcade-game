@@ -1,5 +1,5 @@
 var enemyPosY = [60, 143, 226];
-var enemySpeed = [25,100,125,135,150,250];
+var enemySpeed = [25, 100, 125, 135, 150, 250];
 
 /** Enemies our player must avoid */
 var Enemy = function() {
